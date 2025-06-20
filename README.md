@@ -1,58 +1,72 @@
-# 🚀 Portfólio de Marketing Digital | Marcus Vinícius
+<h1 align="center">🚀 Marcus Vinícius | Marketing Digital</h1>
 
-🎯 Estudante de Marketing Digital com foco em resultados  
-💼 Freelancer em busca de oportunidades para aplicar estratégias reais  
-📊 Domínio em criação de conteúdo, tráfego pago, copywriting e análise de métricas
 
----
+## 👨‍💻 Sobre mim
 
-## 💡 Sobre mim
+Sou Marcus Vinícius, estudante apaixonado por **Marketing Digital** e **vendas online**.  
+Com apenas 16 anos, venho construindo minha trajetória com foco em **tráfego pago, copywriting, conteúdo estratégico e funis de conversão**.
 
-Atualmente curso o ensino médio e estudo marketing digital por conta própria. Apaixonado por estratégias que geram resultado e por ajudar negócios a crescerem no digital. Sempre aprendendo, testando e evoluindo.
-
----
-
-## 📂 Projetos e Cases
-
-### 📱 Estratégia para Instagram de marca fictícia
-- Criação de identidade visual no Canva
-- Calendário de postagens + legendas com gatilhos mentais
-- Simulação de engajamento (curtidas, salvamentos e comentários)
+🧠 Sempre estudando.  
+🔥 Sempre testando.  
+🎯 Sempre com foco em resultado.
 
 ---
 
-### 💬 Funil de vendas com Copy Persuasiva
-- Página de captura feita no Canva + Google Sites
-- Sequência de e-mails criada com gatilhos de escassez e prova social
+## 🛠️ Minhas Especialidades
 
-
----
-
-### 📈 Simulação de campanha de tráfego pago (Meta Ads)
-- Segmentação de público
-- Criativo visual + texto
-- Projeção de métricas de alcance e CTR
-
+- 📲 **Social Media** — planejamento, conteúdo e engajamento
+- 💬 **Copywriting** — textos que despertam desejo e ação
+- 🎯 **Tráfego Pago** — criação de campanhas simuladas no Meta Ads
+- 🧩 **Funis de Vendas** — estratégias completas do clique à compra
+- 🎨 **Design com Canva** — criativos para anúncios, posts e páginas
 
 ---
 
-## 🛠️ Habilidades
-
-- Criação de conteúdo para redes sociais
-- Copywriting e escrita persuasiva
-- Canva (design para posts e anúncios)
-- Estratégia para Instagram, TikTok e WhatsApp
-- Simulações de tráfego pago (Meta Ads e Google Ads)
-- Funis de venda e automações simples
-
----
-
-## 🎯 Projetos de Cursos Criados
+## 📂 Meus Projetos
 
 🔗 Ver projeto: [Métodos de Vendas de Marketing Digital: Guia Completo](https://pay.kiwify.com.br/a60uto5)
 
 🔗 Ver projeto: [Comigo ninguém pode](https://pay.kiwify.com.br/IgvGMlu)
 
-           
+---
+
+### 1️⃣ Estratégia para Instagram de Marca Fictícia
+> Planejamento de 15 dias de conteúdo com foco em engajamento e autoridade.
+
+- Persona definida 🎯  
+- Cores e identidade visual no Canva 🎨  
+- Legendas com gatilhos mentais 💡
+
+
+---
+
+### 2️⃣ Funil de Venda Simulado para Infoproduto
+> Página de captura + sequência de e-mails persuasivos.
+
+- Título com promessa forte 💬  
+- Gatilhos de escassez, prova e autoridade 🔥  
+- Ferramentas gratuitas usadas: Canva, Google Sites e Docs
+
+
+
+---
+
+### 3️⃣ Campanha de Tráfego Simulada - Meta Ads
+> Estratégia de campanha para e-book com foco em leads.
+
+- Segmentação de público ideal 👥  
+- Criativo visual no Canva 🖼️  
+- Estimativa de métricas (CTR, CPM) 📈
+
+
+---
+
+## 💡 Diferenciais
+
+✅ Estratégia e criatividade combinadas  
+✅ Foco em resultados reais  
+✅ Trabalho com ferramentas acessíveis (mesmo sem investimento alto)  
+✅ Consistência e organização com Trello, Notion e Google Drive
+
           
           
